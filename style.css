@@ -75,11 +75,11 @@ section > p {
 }
 section#img01 {
   background-image: url(imagens/wallpaper001.jpg);
-  padding: 10vh;
+  padding: 2vw;
 }
 section#img02 {
   background-image: url(imagens/wallpaper002.jpg);
   background-position: right center;
-  padding: 15vh;
+  padding: 5vw;
   margin-left: -50px;
 }
