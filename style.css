@@ -65,10 +65,11 @@ section.imagem {
 }
 section.imagem > p {
   background-color: rgba(138, 133, 133, 0.507);
+  display: inline-block;
   border-radius: 3%;
   width: 400px;
-  padding: 5vh;
-  margin-left: -50px;
+  padding: 10px;
+  margin-left: -10px;
 }
 section > p {
   font-family: "Sriracha";
