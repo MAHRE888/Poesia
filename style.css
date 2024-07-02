@@ -6,10 +6,10 @@
 * {
   margin: 0px;
   padding: 0px;
+  font-size: 10vw;
 }
 body {
   font-family: "Paytone One";
-  font-size: 10vh;
 }
 header {
   text-align: center;
